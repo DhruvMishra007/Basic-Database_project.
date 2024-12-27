@@ -21,6 +21,7 @@ Delete Records: Remove specific records from tables.
 File Operations: Save the database to a file and reload it to continue working later.
 
 File Structure
+
 Database Class: Contains methods for table management, CRUD operations, and file handling.
 
 Main Function: Demonstrates how to use the Database class.
