@@ -1,5 +1,6 @@
 # Simplified Database System
 Project Desctiption
+
 This project is a simplified database system built from scratch to demonstrate
 core functionalities such as creating tables, inserting, updating, and deleting records.
 While building a full-fledged database system is a complex task, this project provides
